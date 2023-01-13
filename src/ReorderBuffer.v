@@ -1,4 +1,4 @@
-`include "/Users/weijie/Desktop/CPU2022/riscv/src/defines.v"
+//`include "/Users/weijie/Desktop/CPU2022/riscv/src/defines.v"
 // 接受 Decoder 进队尾, 队头检查出队, 接受更新 
 module ReorderBuffer(
     input wire clk,

@@ -1,4 +1,4 @@
-`include "/Users/weijie/Desktop/CPU2022/riscv/src/defines.v"
+//`include "/Users/weijie/Desktop/CPU2022/riscv/src/defines.v"
 
 module ALU_RS(
     input wire clk,

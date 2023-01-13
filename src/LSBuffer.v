@@ -1,4 +1,4 @@
-`include "/Users/weijie/Desktop/CPU2022/riscv/src/defines.v"
+//`include "/Users/weijie/Desktop/CPU2022/riscv/src/defines.v"
 // 周期任务：进ALU_LS、拉进新的、接受ROB更新
 module LSBuffer(
     input wire clk,
